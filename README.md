@@ -7,7 +7,7 @@ This are 2 small apps for Mac OS X -created with [Automator](http://support.appl
 
 ![image](https://dl.dropboxusercontent.com/u/3522/OpenFrontWorkflow.png)
 
-There are 2 apps but each one work by itself.
+There's 2 *apps* but each one work by itself.
 
 ###OpenFrontWorkflow-App.app
 **Description**: When launched, asks for the location of the project you want to launch. Then browsed, opens your proyect ready to work:
