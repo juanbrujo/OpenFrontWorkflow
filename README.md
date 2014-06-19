@@ -5,6 +5,8 @@ OpenFrontWorkflow
 
 This are 2 small apps for Mac OS X -created with [Automator](http://support.apple.com/kb/HT2488)- that helps you if you're a *front-end* developer to get your local project ready to start coding. 
 
+![image](https://dl.dropboxusercontent.com/u/3522/OpenFrontWorkflow.png)
+
 There are 2 apps but each one work by itself.
 
 ###OpenFrontWorkflow-App.app
