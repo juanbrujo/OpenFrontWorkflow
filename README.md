@@ -7,10 +7,10 @@ This are 2 small apps for Mac OS X -created with [Automator](http://support.appl
 
 ![image](https://dl.dropboxusercontent.com/u/3522/OpenFrontWorkflow.png)
 
-There's 2 *apps* but each one work by itself.
+There's 2 *apps* but each one works alone.
 
 ###OpenFrontWorkflow-App.app
-**Description**: When launched, asks for the location of the project you want to launch. Then browsed, opens your proyect ready to work:
+**Description**: When launched, asks for the location of the project you want to launch. When browsed, opens the necessary path to get ready to work:
 
 - **Terminal.app**: opens the shell right in the project
 - **Sublime Text**: opens the entire folder within this app
@@ -28,7 +28,7 @@ There's 2 *apps* but each one work by itself.
 - **Sublime Text**: opens the entire folder within this app
 - *Finder*: already open
 
-**Use**: Download and drag it to the Applications folder. To have it on your toolbar, *right-click > customize Toolbar* over the toolbar and drag the **OpenFrontWorkflow-Current.app** tho the available spot.
+**Use**: Download and drag it to the Applications folder. To have it on your toolbar, *right-click > customize Toolbar* over the toolbar and drag the **OpenFrontWorkflow-Current.app** to the available spot.
 
 ![image](https://dl.dropboxusercontent.com/u/3522/OpenFrontWorkflow-Current.jpg)
 
